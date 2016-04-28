@@ -25,7 +25,7 @@
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0.138326 0.138352 0.13832 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
-	<string>0 0 0 1</string>
+	<string>1 1 1 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
 	<string>0.891972 0.635291 1 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
@@ -39,31 +39,33 @@
 	<key>DVTMarkupTextEmphasisColor</key>
 	<string>0.91194 0.888054 0.872512 1</string>
 	<key>DVTMarkupTextEmphasisFont</key>
-	<string>.AppleSystemUIFontItalic - 13.0</string>
+	<string>.SFNSText-Italic - 13.0</string>
+	<key>DVTMarkupTextInlineCodeColor</key>
+	<string>0.91194 0.888054 0.872512 0.7</string>
 	<key>DVTMarkupTextLinkColor</key>
 	<string>0.978146 0.148575 0.445249 1</string>
 	<key>DVTMarkupTextLinkFont</key>
-	<string>.AppleSystemUIFont - 13.0</string>
+	<string>.SFNSText-Regular - 13.0</string>
 	<key>DVTMarkupTextNormalColor</key>
 	<string>0.91194 0.888054 0.872512 1</string>
 	<key>DVTMarkupTextNormalFont</key>
-	<string>.AppleSystemUIFont - 13.0</string>
+	<string>.SFNSText-Regular - 13.0</string>
 	<key>DVTMarkupTextOtherHeadingColor</key>
 	<string>0.91194 0.888054 0.872512 0.5</string>
 	<key>DVTMarkupTextOtherHeadingFont</key>
-	<string>.AppleSystemUIFont - 18.2</string>
+	<string>.SFNSText-Regular - 18.2</string>
 	<key>DVTMarkupTextPrimaryHeadingColor</key>
 	<string>0.91194 0.888054 0.872512 1</string>
 	<key>DVTMarkupTextPrimaryHeadingFont</key>
-	<string>.AppleSystemUIFont - 31.2</string>
+	<string>.SFNSDisplay-Regular - 31.2</string>
 	<key>DVTMarkupTextSecondaryHeadingColor</key>
 	<string>0.91194 0.888054 0.872512 1</string>
 	<key>DVTMarkupTextSecondaryHeadingFont</key>
-	<string>.AppleSystemUIFont - 23.4</string>
+	<string>.SFNSDisplay-Regular - 23.4</string>
 	<key>DVTMarkupTextStrongColor</key>
 	<string>0.91194 0.888054 0.872512 1</string>
 	<key>DVTMarkupTextStrongFont</key>
-	<string>.AppleSystemUIFontBold - 13.0</string>
+	<string>.SFNSText-Bold - 13.0</string>
 	<key>DVTSourceTextBackground</key>
 	<string>0.0854388 0.087551 0.0748996 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
